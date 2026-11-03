@@ -5,5 +5,3 @@ Please see below for a list of our applications, privacy statements and support.
 
 ##  [morse-torch](/morse-torch/index) 
 Turn your iPhone's camera light into a Morse Code signalling lamp.
-
-## 
