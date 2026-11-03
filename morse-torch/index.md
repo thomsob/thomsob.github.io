@@ -26,5 +26,5 @@ An iPhone with a camera flash, running iOS 17 or later.
 
 ## More
 
-- [Support](./support)
-- [Privacy policy](./privacy)
+- [Support](support)
+- [Privacy policy](privacy)

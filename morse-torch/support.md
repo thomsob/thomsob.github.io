@@ -46,4 +46,4 @@ Apple handles all purchases and refunds. Request one at [reportaproblem.apple.co
 
 Flashing lights can trigger seizures in people with photosensitive epilepsy. Don't use the strobe around anyone who may be affected, near drivers, or pointed at anyone's eyes. The app's screen never flashes. Only the camera light does.
 
-[Back to Morse Torch](./index)
+[Back to Morse Torch](index)
