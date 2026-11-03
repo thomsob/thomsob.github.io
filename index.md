@@ -1,4 +1,4 @@
-# thomsob.github.io
+# About
 thomsob developments stives to provide helpful and fun apps for users of all ages.
 
 Please see below for a list of our applications, privacy statements and support.
