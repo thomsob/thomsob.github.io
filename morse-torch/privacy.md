@@ -32,4 +32,4 @@ If this policy changes, the updated version will be posted on this page with a n
 
 Questions about this policy can be sent to **SUPPORT-EMAIL**.
 
-[Back to Morse Torch](index)
+[Back to Morse Torch](/morse-torch/)
