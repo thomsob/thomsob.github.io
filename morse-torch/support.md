@@ -5,7 +5,7 @@ permalink: /morse-torch/support/
 
 # Morse Torch Support
 
-For help, or to report a problem, email **SUPPORT-EMAIL**. Please include your iPhone model and iOS version.
+For help, or to report a problem, email [Support](mailto://morsetorchsupport@gmail.com). Please include your iPhone model and iOS version.
 
 ## Common questions
 
