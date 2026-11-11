@@ -1,6 +1,8 @@
 ---
 title: Morse Code Torch Support
-permalink: /morse-torch/support/
+permalink: /morse-code-torch/support/
+redirect_from:
+  - /morse-torch/support/
 ---
 
 # Morse Code Torch Support
@@ -60,4 +62,4 @@ Open the upgrade screen and tap **Restore Purchase**. Make sure you're signed in
 
 Apple handles all purchases and refunds. Request one at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
-[Back to Morse Code Torch](/morse-code-torch/index) 
+[Back to Morse Code Torch](/morse-code-torch/) 

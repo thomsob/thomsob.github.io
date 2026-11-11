@@ -1,6 +1,9 @@
 ---
 title: Morse Code Torch Privacy Policy
-permalink: /morse-torch/privacy
+permalink: /morse-code-torch/privacy/
+redirect_from:
+  - /morse-torch/privacy/
+  - /morse-torch/privacy
 ---
 
 # Morse Code Torch Privacy Policy
@@ -32,4 +35,4 @@ If this policy changes, the updated version will be posted on this page with a n
 
 Questions about this policy can be sent to **SUPPORT-EMAIL**.
 
-[Back to Morse Code Torch](/morse-code-torch/index) 
+[Back to Morse Code Torch](/morse-code-torch/) 
