@@ -7,6 +7,24 @@ permalink: /morse-torch/support/
 
 For help, or to report a problem, email [Support](mailto:morsetorchsupport@gmail.com). Please include your iPhone model and iOS version.
 
+## Safety
+
+### Flashing light warning
+
+The strobe produces a rapidly flashing light. Flashing lights can trigger seizures in people with photosensitive epilepsy, and can cause discomfort, dizziness or disorientation in others.
+
+- Don't use the strobe if you, or anyone who may see it, have epilepsy or have had a seizure.
+- Don't point the light at anyone's eyes, or use it near people who are driving, cycling or operating machinery.
+- Stop immediately if you or anyone nearby feels unwell.
+
+The app's screen never flashes, only the camera light does.
+
+### Not an emergency device
+
+Morse Torch isn't a safety or emergency device, and shouldn't be relied on in an emergency. The light can stop working without warning, for example if the iPhone overheats, its battery runs low, or iOS takes the torch for another app. A Morse or SOS signal may not be seen or understood.
+
+**In an emergency, contact the emergency services**, for example with your iPhone's Emergency SOS feature.
+
 ## Common questions
 
 ### The app says the torch is unavailable
@@ -41,9 +59,5 @@ Open the upgrade screen and tap **Restore Purchase**. Make sure you're signed in
 ### How do I get a refund?
 
 Apple handles all purchases and refunds. Request one at [reportaproblem.apple.com](https://reportaproblem.apple.com).
-
-## Safety
-
-Flashing lights can trigger seizures in people with photosensitive epilepsy. Don't use the strobe around anyone who may be affected, near drivers, or pointed at anyone's eyes. The app's screen never flashes, only the camera light does.
 
 [Back to Morse Torch](/morse-torch/)
