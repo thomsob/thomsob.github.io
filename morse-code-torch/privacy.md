@@ -1,13 +1,13 @@
 ---
-title: Morse Torch Privacy Policy
+title: Morse Code Torch Privacy Policy
 permalink: /morse-torch/privacy
 ---
 
-# Morse Torch Privacy Policy
+# Morse Code Torch Privacy Policy
 
 _Last updated: 3 November 2026_
 
-Morse Torch doesn't collect, store or share any personal information.
+Morse Code Torch doesn't collect, store or share any personal information.
 
 ## What the app does
 
@@ -18,7 +18,7 @@ Morse Torch doesn't collect, store or share any personal information.
 
 ## Purchases
 
-Morse Torch Pro is bought through Apple's App Store. Apple processes the payment under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). The app only receives confirmation from Apple that Pro has been bought. It never sees your name, payment details or Apple Account.
+Morse Code Torch Pro is bought through Apple's App Store. Apple processes the payment under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). The app only receives confirmation from Apple that Pro has been bought. It never sees your name, payment details or Apple Account.
 
 ## Children
 
@@ -32,4 +32,4 @@ If this policy changes, the updated version will be posted on this page with a n
 
 Questions about this policy can be sent to **SUPPORT-EMAIL**.
 
-[Back to Morse Torch](/morse-torch/)
+[Back to Morse Code Torch](/morse-code-torch/index) 

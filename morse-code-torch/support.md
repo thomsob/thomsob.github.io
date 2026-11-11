@@ -1,9 +1,9 @@
 ---
-title: Morse Torch Support
+title: Morse Code Torch Support
 permalink: /morse-torch/support/
 ---
 
-# Morse Torch Support
+# Morse Code Torch Support
 
 For help, or to report a problem, email [Support](mailto:morsetorchsupport@gmail.com). Please include your iPhone model and iOS version.
 
@@ -21,7 +21,7 @@ The app's screen never flashes, only the camera light does.
 
 ### Not an emergency device
 
-Morse Torch isn't a safety or emergency device, and shouldn't be relied on in an emergency. The light can stop working without warning, for example if the iPhone overheats, its battery runs low, or iOS takes the torch for another app. A Morse or SOS signal may not be seen or understood.
+Morse Code Torch isn't a safety or emergency device, and shouldn't be relied on in an emergency. The light can stop working without warning, for example if the iPhone overheats, its battery runs low, or iOS takes the torch for another app. A Morse or SOS signal may not be seen or understood.
 
 **In an emergency, contact the emergency services**, for example with your iPhone's Emergency SOS feature.
 
@@ -33,11 +33,11 @@ iOS turns the torch off when the phone gets too hot, or while another app, such 
 
 ### The light turns off when I leave the app
 
-This is deliberate. iOS pauses apps in the background, which could leave a strobe or message stuck on, so Morse Torch turns the light off when you leave it.
+This is deliberate. iOS pauses apps in the background, which could leave a strobe or message stuck on, so Morse Code Torch turns the light off when you leave it.
 
 ### The fast strobe stopped after a few seconds
 
-Without Pro, strobe speeds above 5 flashes per second run as a short preview, followed by a 30-second pause. Speeds of 5 flashes per second or less always work. Morse Torch Pro removes the limit.
+Without Pro, strobe speeds above 5 flashes per second run as a short preview, followed by a 30-second pause. Speeds of 5 flashes per second or less always work. Morse Code Torch Pro removes the limit.
 
 ### Tap Morse reads my dashes as dots, or splits my letters
 
@@ -60,4 +60,4 @@ Open the upgrade screen and tap **Restore Purchase**. Make sure you're signed in
 
 Apple handles all purchases and refunds. Request one at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
-[Back to Morse Torch](/morse-torch/)
+[Back to Morse Code Torch](/morse-code-torch/index) 

@@ -1,18 +1,21 @@
 ---
-title: Morse Torch
+title: Morse Code Torch
 permalink: /morse-torch/
 ---
 
-# Morse Torch
+# Morse Code Torch
 
-Morse Torch turns your iPhone's camera light into a Morse Code signalling lamp. Ideally for Scouts, hobbiests, or anyone intersted in Morse Code.
+Morse Code Torch turns your iPhone's camera light into a Morse Code signalling lamp. Ideally for Scouts, hobbiests, or anyone intersted in Morse Code.
+
+This is for educational purposes only, it is not a saftey or emergency device. See [Support](support) for more details. 
+
 
 - **Light:** a steady torch, from a dim glow to full brightness, controlled with one finger.
 - **Strobe:** a flashing light from 1 to 15 flashes per second.
 - **Morse:** type a message and the light sends it in Morse code, at 5 to 15 words per minute.
 - **Learn Morse:** a built-in guide to the Morse alphabet, numbers and punctuation, and how Morse timing works.
 
-## Morse Torch Pro
+## Morse Code Torch Pro
 
 A single in-app purchase, with no subscription, unlocks:
 
